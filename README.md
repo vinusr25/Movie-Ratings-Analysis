@@ -55,4 +55,13 @@ This project demonstrates data cleaning, exploratory analysis, visualizations, a
 
 ## How to Run
 1. Upload `movies.csv` to your environment (Google Colab or Jupyter Notebook)
-2
+2. Run the provided notebook `Movie_Ratings_Analysis.ipynb`
+3. All visualizations and cleaned data will be generated automatically
+
+## Skills Demonstrated
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Python, Pandas, Matplotlib, Seaborn
+- Insight generation from real-world data
+
