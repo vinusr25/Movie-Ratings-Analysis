@@ -13,7 +13,7 @@ This project demonstrates data cleaning, exploratory analysis, visualizations, a
 - Pandas
 - Matplotlib
 - Seaborn
-- Google Colab / Jupyter Notebook
+- Google Colab 
 
 ## Steps Performed
 
